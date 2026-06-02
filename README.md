@@ -72,7 +72,43 @@ pip3 install -r requirements.txt
 sudo apt uodate -y && git clone https://github.com/tyranroot/Js-Hunter.git && cd JS-Hunter && python3 JS-Hunter.py
 ```
 
+## 🥷 Project Output
+```bash
+
+┌──(TyraxZero)(tyranroot㉿TyranRoot)-[~/Mytools/JS-HUNTER]
+└─$ python3 JS-Hunter.py
+
+                   ██╗███████╗    ███████╗███████╗ ██████╗██████╗ ███████╗████████╗
+                   ██║██╔════╝    ██╔════╝██╔════╝██╔════╝██╔══██╗██╔════╝╚══██╔══╝
+                   ██║███████╗    ███████╗█████╗  ██║     ██████╔╝█████╗     ██║
+              ██   ██║╚════██║    ╚════██║██╔══╝  ██║     ██╔══██╗██╔══╝     ██║
+              ╚█████╔╝███████║    ███████║███████╗╚██████╗██║  ██║███████╗   ██║
+               ╚════╝ ╚══════╝    ╚══════╝╚══════╝ ╚═════╝╚═╝  ╚═╝╚══════╝   ╚═╝
+
+      ██╗  ██╗██╗   ██╗███╗   ██╗████████╗███████╗██████╗
+      ██║  ██║██║   ██║████╗  ██║╚══██╔══╝██╔════╝██╔══██╗
+      ███████║██║   ██║██╔██╗ ██║   ██║   █████╗  ██████╔╝
+      ██╔══██║██║   ██║██║╚██╗██║   ██║   ██╔══╝  ██╔══██╗
+      ██║  ██║╚██████╔╝██║ ╚████║   ██║   ███████╗██║  ██║
+      ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝   ╚═╝   ╚══════╝╚═╝  ╚═╝
+
+
+  Enter target URL:
+
+
+```
 
 ---
+## 👨‍💻 Author
+* **Name:** Maruf x ZeroTrace 
+* 🐙 GitHub: [TyranRoot](https://github.com/tyranroot/)
+* 💬 Telegram: [Maruf x ZeroTrace](https://t.me/marufxzerotrace)
+* 📘 Facebook: [Maruf x ZeroTrace](https://www.facebook.com/share/1CDxaGN6p3/)
+* 💬 TikTok: [TyranRoot](https://www.tiktok.com/@tyranroot?is_from_webapp=1&sender_device=pc)
+
+---
+
+
+
 
 
