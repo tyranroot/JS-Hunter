@@ -92,8 +92,7 @@ sudo apt uodate -y && git clone https://github.com/tyranroot/Js-Hunter.git && cd
       ██║  ██║╚██████╔╝██║ ╚████║   ██║   ███████╗██║  ██║
       ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝   ╚═╝   ╚══════╝╚═╝  ╚═╝
 
-
-  Enter target URL:
+  Enter target URL: https://example.com
 
 
 ```
