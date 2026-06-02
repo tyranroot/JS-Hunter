@@ -65,9 +65,9 @@ python3 JS-Hunter.py
 ```env
 pip3 install -r requirements.txt
 ```
-*(No client-side configs are needed. The API key is fully restricted on server processes.)*
+*(install all module and all dependents by pip3 .)*
 
-### 3. Run One Line Command in Linux
+### 3. Run One Line Command For Linux
 ```bash
 sudo apt uodate -y && git clone https://github.com/tyranroot/Js-Hunter.git && cd JS-Hunter && python3 JS-Hunter.py
 ```
@@ -75,20 +75,4 @@ sudo apt uodate -y && git clone https://github.com/tyranroot/Js-Hunter.git && cd
 
 ---
 
-## 🔐 Remediation Recommendations (Global Advice)
 
-If a leak is identified inside your production environment, follow these universal security steps:
-1.  **Immediate Revocation (Revoke Key/Token)**: Place high priority on deleting or revoking the exposed token in the corresponding provider portal (e.g. AWS Console, Google Cloud Portal, Stripe Dashboard) to prevent external exploitation.
-2.  **Environment Variable Integration**: Relocate any sensitive credentials to secure environment variables, accessing them dynamically inside server-side scripts (e.g. `process.env.API_KEY`).
-3.  **Implement Reference Restrictions**: For keys that must reside client-side (such as Google Maps/Maps API), apply strict domain, HTTP referrer, or IP restrictions in the developer console to prevent execution from external URL sources.
-
----
-
-## 📄 License & Terms
-
-Authorized for security auditing, penetration testing, and software development quality checks. 
-
-**License**: Distributed under the standard **MIT License**. Check individual file headers for specific copyright properties.
-
----
-*Created as a verified cybersecurity utility to promote web vulnerability reduction.*
