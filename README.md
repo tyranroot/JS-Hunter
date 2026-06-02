@@ -120,7 +120,7 @@ Have questions, collaboration proposals, or custom penetration testing requests?
 *   **🔵 Facebook**: [TyranRoot](https://www.facebook.com/profile.php?id=61585652805918) 
 *   **📸 Instagram Hub**: [TyranRoot](https://instagram.com/tyranroot) 
 *   **🎵 TikTok**: [TyranRoot](https://www.tiktok.com/@tyranroot?is_from_webapp=1&sender_device=pc)
-*   **🛡️ Bug Bounty / Reports**: Kindly submit critical vulnerability findings regarding this tool directly to our support email to ensure coordinated disclosure.
+
 
 ---
 
