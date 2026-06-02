@@ -13,7 +13,7 @@
 
 In modern web development, shipping configurations or credentials inside client-side builds (JavaScript bundles, static assets, etc.) is one of the most critical avenues for credential leakages. Every single key compiled into client-side JS is readable by script crawlers, automated attackers, and security auditors.
 
-The **JS Key & Secret Leak Scanner** is a comprehensive, full-stack cybersecurity instrument designed to audit public URLs or pasted script blocks, fetch external static scripts, run intensive heuristic regex patterns, and determine entropy ratings. Integrating the power of **Google Gemini 3.5-Flash**, this tool provides real-time security summaries and customized, step-by-step rotation/mitigation guidelines for each exposed signature.
+The **JS Key & Secret Leak Scanner** is a comprehensive, full-stack cybersecurity instrument designed to audit public URLs or pasted script blocks, fetch external static scripts, run intensive heuristic regex patterns, and determine entropy ratings. Integrating the power of **TyranRoot**, this tool provides real-time security summaries and customized, step-by-step rotation/mitigation guidelines for each exposed signature.
 
 ---
 
