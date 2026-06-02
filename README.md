@@ -23,7 +23,6 @@ The **JS Key & Secret Leak Scanner** is a comprehensive, full-stack cybersecurit
 -   **🛡️ Multi-Heuristic Pattern Matcher**: Scan files against 11+ professional, high-fidelity regular expression rules configured for industry-standard keys (AWS, Google, Stripe, GitHub, Slack, JWT, Generic variable layouts).
 -   **📊 Shannon Entropy Metric Calculation**: Calculates the Shannon Entropy level of detected matches to identify true randomized security tokens and eliminate basic code placeholder false positives.
 -   **👁️ Interactive Secrets Inspection**: Review detected keys in a secure visual terminal context. Masked by default, keys can be toggled visibly for validation and copied instantly.
--   **🔮 Deep Gemini AI Security Auditing**: Clicking "Audit with Gemini" sends the context snippet to Gemini. It automatically generates a specialized detailed threat assessment, exploit vectors, and a step-by-step mitigation handbook.
 -   **📋 Preloaded Demonstration Templates**: Equipped with simulated insecure code blocks (Firebase, AWS, GitHub PATs, Stripe) to test the scanner immediately in one click.
 
 ---
