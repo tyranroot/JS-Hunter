@@ -66,37 +66,28 @@ The scanner possesses built-in regular expression heuristics engineered for the 
 
 ## 🚀 Setting Up Locally
 
-### Prerequisites
-Make sure you have **Node.js (v18 or higher)** and **npm** installed on your workstation.
 
-### 1. Extract and Install Dependencies
+### 1. Install in  Termux 
 Navigate into your folder and run:
 ```bash
-npm install
+pkg update -y
+https://github.com/tyranroot/JS-Hunter.git
+cd JS-Hunter
+pip3 install -r requirements.txt
+python3 JS-Hunter.py
 ```
 
 ### 2. Configure Environment Variables
-Create a `.env` file or adapt the `.env.example` in the root folder:
 ```env
-GEMINI_API_KEY="your_google_gemini_api_key_here"
+pip3 install -r requirements.txt
 ```
 *(No client-side configs are needed. The API key is fully restricted on server processes.)*
 
-### 3. Launch Development Server
+### 3. Run One Line Command in Linux
 ```bash
-npm run dev
+sudo apt uodate -y && git clone https://github.com/tyranroot/Js-Hunter.git && cd JS-Hunter && python3 JS-Hunter.py
 ```
-Open [http://localhost:3000](http://localhost:3000) on your desktop browser.
 
-### 4. Enterprise Production Compilation
-Bundle the static assets and bundle the server using `esbuild` by executing:
-```bash
-npm run build
-```
-Launch the compiled self-contained bundle with:
-```bash
-npm run start
-```
 
 ---
 
