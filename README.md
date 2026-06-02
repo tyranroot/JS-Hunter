@@ -116,9 +116,10 @@ If this scanner has helped you audit, identify, or secure an exposed token in yo
 Have questions, collaboration proposals, or custom penetration testing requests? Feel free to reach out to our primary channels:
 
 *   **💻 GitHub Profile**: [TyranRoot](https://github.com/tyranroot) — *Explore other diagnostic tools and open-source contributions*
-*   **📧 Professional Email**: [TyranRoot Mail](mailto:tyranroot@gmail.com) — *Inbox monitored daily for security alerts or custom projects*
-*   **🔵 Facebook Community**: [TyranRoot](https://www.facebook.com/profile.php?id=61585652805918) — *Stay updated with weekly cybersec tips and platform releases*
-*   **🎵 TikTok Channel**: [TyranRoot](https://www.tiktok.com/@tyranroot?is_from_webapp=1&sender_device=pc) — *Express cyber diagnostic tutorials, live coding loops, and tech bites*
+*   **📧  Email**: [TyranRoot ](mailto:tyranroot@gmail.com) — *Inbox monitored daily for security alerts or custom projects*
+*   **🔵 Facebook **: [TyranRoot](https://www.facebook.com/profile.php?id=61585652805918) — *Stay updated with weekly cybersec tips and platform releases*
+*   **📸 Instagram Hub**: [TyranRoot](https://instagram.com/tyranroot) — *Behind-the-scenes snapshots, key vulnerability highlights, and active alerts*
+*   **🎵 TikTok **: [TyranRoot](https://www.tiktok.com/@tyranroot?is_from_webapp=1&sender_device=pc) — *Express cyber diagnostic tutorials, live coding loops, and tech bites*
 *   **🛡️ Bug Bounty / Reports**: Kindly submit critical vulnerability findings regarding this tool directly to our support email to ensure coordinated disclosure.
 
 ---
