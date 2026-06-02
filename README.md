@@ -55,7 +55,7 @@ Navigate into your folder and run:
 ```bash
 pkg update -y
 pkg install git python python3 -y
-https://github.com/tyranroot/JS-Hunter.git
+git clone https://github.com/tyranroot/JS-Hunter.git
 cd JS-Hunter
 pip3 install -r requirements.txt
 python3 JS-Hunter.py
