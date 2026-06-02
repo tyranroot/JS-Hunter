@@ -75,7 +75,7 @@ sudo apt uodate -y && git clone https://github.com/tyranroot/Js-Hunter.git && cd
 ## 🥷 Project Output
 ```bash
 
-┌──(TyraxZero)(tyranroot㉿TyranRoot)-[~/Mytools/JS-HUNTER]
+┌──(TyraxZero)(tyranroot㉿TyranRoot)-[~/REPO/JS-HUNTER]
 └─$ python3 JS-Hunter.py
 
                    ██╗███████╗    ███████╗███████╗ ██████╗██████╗ ███████╗████████╗
