@@ -97,15 +97,32 @@ sudo apt uodate -y && git clone https://github.com/tyranroot/Js-Hunter.git && cd
 
 ```
 
----
-## 👨‍💻 Author
-* **Name:** Maruf x ZeroTrace 
-* 🐙 GitHub: [TyranRoot](https://github.com/tyranroot/)
-* 💬 Telegram: [Maruf x ZeroTrace](https://t.me/marufxzerotrace)
-* 📘 Facebook: [Maruf x ZeroTrace](https://www.facebook.com/share/1CDxaGN6p3/)
-* 💬 TikTok: [TyranRoot](https://www.tiktok.com/@tyranroot?is_from_webapp=1&sender_device=pc)
+## 🤝 Contributing & Feedback
+
+Contributions, issues, and feature requests are welcome! If you have suggestions to enhance the heuristic patterns or integrate additional third-party scanners, feel free to open a pull request or submit an issue ticket. Let's make the web a safer place together.
 
 ---
+
+## 💖 Appreciation & Thanks
+
+Thank you for choosing **SentinelScope**! We are deeply committed to elevating your security posture and protecting your applications from accidental credential leakages. Your trust inspires us to continuously refine our diagnostic models and engineer sophisticated defensive utilities.
+
+If this scanner has helped you audit, identify, or secure an exposed token in your build pipeline, please consider giving it a ⭐ on GitHub and sharing it with your cybersec & development team!
+
+---
+
+## 📧 Connect & Support
+
+Have questions, collaboration proposals, or custom penetration testing requests? Feel free to reach out to our primary channels:
+
+*   **💻 GitHub Profile**: [TyranRoot](https://github.com/tyranroot) — *Explore other diagnostic tools and open-source contributions*
+*   **📧 Professional Email**: [TyranRoot Mail](mailto:tyranroot@gmail.com) — *Inbox monitored daily for security alerts or custom projects*
+*   **🔵 Facebook Community**: [TyranRoot](https://www.facebook.com/profile.php?id=61585652805918) — *Stay updated with weekly cybersec tips and platform releases*
+*   **🎵 TikTok Channel**: [TyranRoot](https://www.tiktok.com/@tyranroot?is_from_webapp=1&sender_device=pc) — *Express cyber diagnostic tutorials, live coding loops, and tech bites*
+*   **🛡️ Bug Bounty / Reports**: Kindly submit critical vulnerability findings regarding this tool directly to our support email to ensure coordinated disclosure.
+
+---
+
 
 
 
